@@ -1,0 +1,8 @@
+.DS_Store
+target
+workspace.xml
+*.iws
+.idea/
+*.iml
+*.swp
+.Trashes
